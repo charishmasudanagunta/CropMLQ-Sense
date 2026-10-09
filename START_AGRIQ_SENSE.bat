@@ -2,7 +2,7 @@
 title AgriQ-Sense
 cd /d "%~dp0"
 
-echo Starting AgriQ-Sense...
+echo Starting CropMLQ-Sense...
 echo.
 
 start "" /min cmd /c "python -m streamlit run app.py"
