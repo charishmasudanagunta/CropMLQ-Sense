@@ -4,8 +4,8 @@
 
 ## 1. Selected Problem Statement
 
-* **Problem Statement ID:** Add the official ID provided by the organizers.
-* **Problem Statement Title:** Add the official selected title.
+* **Problem Statement ID:** VNQFF-04
+* **Problem Statement Title:** Quantum Multimodal Crop Disease Early Warning
 * **Team Name:** Quantum Codex
 
 ## 2. Proposed Solution
@@ -54,12 +54,25 @@ The current prototype demonstrates the integrated software workflow. OpenCV prov
 * Explore IBM Quantum hardware execution.
 
 ## 9. Team Details
-
-Add each team member's name and project role here.
+Sudanagunta Charishma(Team Lead)
+Kondragunta Sripujitha
+Siriki Tanusri Durga
+Narra Mokshitha Chowdary
+Posani Lakshmi Teja Sri
 
 ## 10. References
+1. Mohanty, S. P., Hughes, D. P., & Salathé, M. (2016). *Using Deep Learning for Image-Based Plant Disease Detection.* Frontiers in Plant Science, 7, 1419. DOI: https://doi.org/10.3389/fpls.2016.01419
 
-Add the research papers and Qiskit references cited in the project presentation.
+2. Zhou, J., et al. (2021). *Crop disease identification and interpretation method based on multimodal deep learning.* Computers and Electronics in Agriculture, 189, 106408. DOI: https://doi.org/10.1016/j.compag.2021.106408
+
+3. Sarkar, C., et al. (2023). *Leaf disease detection using machine learning and deep learning: Review and challenges.* Applied Soft Computing, 145, 110534. DOI: https://doi.org/10.1016/j.asoc.2023.110534
+
+4. EQID (2025). *Entangled quantum image descriptor: An approach for early plant disease detection.* Crop Protection, 188, 107005. DOI: https://doi.org/10.1016/j.cropro.2024.107005
+
+5. Kumar, S., et al. (2026). *Fusion of quantum computing with smart agriculture: A systematic review of methods, implementation, applications, and challenges.* Information Fusion, 131, 104159. DOI: https://doi.org/10.1016/j.inffus.2026.104159
+
+6. Aleksandrowicz, G., et al. *Qiskit: An Open-source Framework for Quantum Computing.* Zenodo. DOI: https://doi.org/10.5281/zenodo.2562111
+
 
 ## 11. Project Files
 
