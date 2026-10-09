@@ -1,5 +1,5 @@
 @echo off
-title AgriQ-Sense
+title CropMLQ-Sense
 cd /d "%~dp0"
 
 echo Starting CropMLQ-Sense...
@@ -12,7 +12,7 @@ timeout /t 5 /nobreak >nul
 start "" "http://localhost:8501"
 
 echo.
-echo AgriQ-Sense is opening in your browser.
+echo CropMLQ-Sense is opening in your browser.
 echo Keep this window open while using the website.
 echo.
 pause
